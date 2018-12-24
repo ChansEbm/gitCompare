@@ -2,6 +2,3 @@
 README.MD
 
 # gitCompare
-
-SSH
-
